@@ -1,7 +1,7 @@
 # ***APCSA***
 
-This is a backup for any of my files for my AP Computer Science A course
+---
 
-The best class I have ever taken... Seriousy.
+A storage for Java files that come from AP Computer Science A and etc.
 
 ---
